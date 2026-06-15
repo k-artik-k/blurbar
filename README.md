@@ -1,4 +1,9 @@
-# BlurBar
+# BlurBar  
+
+![Platform](https://img.shields.io/badge/platform-Windows%2011-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-gray)
+![License](https://img.shields.io/badge/license-ISC-green)
+![Electron](https://img.shields.io/badge/electron-v42-47848F)
 
 A lightweight screen privacy overlay for Windows 11. Sits always-on-top, hides the left portion of your screen with a smooth tint. Drag to adjust coverage and intensity.
 
